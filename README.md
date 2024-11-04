@@ -1,5 +1,6 @@
 # Lab 9 - Search
 Complete the exercises in Search.h (class/function definitions - no main() function should be written).
+You can get a bonus (+5% to your grade for this lab)! Please, see details in the Search.h file. 
 
 In this lab you will implement a few Search algorithm tasks.
 
